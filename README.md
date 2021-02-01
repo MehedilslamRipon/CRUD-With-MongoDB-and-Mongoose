@@ -13,6 +13,8 @@ $ git clone https://github.com/MehedilslamRipon/CRUD-With-MongoDB-and-Mongoose.g
 
 $ cd CRUD-With-MongoDB-and-Mongoose
 
+$ npm install
+
 $ node server.js
 ```
 
