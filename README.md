@@ -1,17 +1,17 @@
-# Noob-CRUD-Node
+# CRUD-With-MongoDB-and-Mongoose
 
 ## Features:
-- Get all data
-- Get single data by id
-- Write data
-- Update data by id (as example)
-- Delete data by id (as example)
+- Get all data (from remote database)
+- Get single data by id (from remote database)
+- Write data (in remote database)
+- Update data by id (in remote database)
+- Delete data by id (from remote database)
 
 ## How To Run:
 ```
-$ git clone https://github.com/MehedilslamRipon/Noob-CRUD-Node.git
+$ git clone https://github.com/MehedilslamRipon/CRUD-With-MongoDB-and-Mongoose.git
 
-$ cd Noob-CRUD-Node
+$ cd CRUD-With-MongoDB-and-Mongoose
 
 $ node server.js
 ```
